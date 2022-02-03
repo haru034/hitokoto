@@ -1,9 +1,9 @@
 <?php
 // データベースの接続情報
-define( 'DB_HOST', 'localhost');
-define( 'DB_USER', 'root');
-define( 'DB_PASS', 'password');
-define( 'DB_NAME', 'board');
+define( 'DB_HOST', 'mysql1026.db.sakura.ne.jp');
+define( 'DB_USER', 'haru034');
+define( 'DB_PASS', 'Kz2bUarET5Xf');
+define( 'DB_NAME', 'haru034_board');
 
 // 変数の初期化
 $csv_data = null;
